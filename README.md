@@ -20,5 +20,5 @@
 
 ----
 
-## last commit 
+## updated
 ![](https://img.shields.io/github/last-commit/kang-heewon/kang-heewon?label=updated%20%20&style=flat-square)
