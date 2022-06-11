@@ -16,7 +16,6 @@
 
 ## portfolio 📚
 
-[resume](https://resume.heewon.dev)
 
 ----
 
