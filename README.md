@@ -11,7 +11,6 @@
 ```
 - E-mail: heewon.dev@gmail.com
 - GitHub: kang-heewon
-- GitLab: kang-heewon
 ```
 
 ## portfolio 📚
