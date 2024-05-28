@@ -1,6 +1,6 @@
 ![My GitHub Stats!](https://github-readme-stats.heewon-dev.vercel.app/api?username=kang-heewon&count_private=true&show_icons=true)
 
-![My GitHub top language](https://github-readme-stats.heewon-dev.vercel.app/api/top-langs/?username=kang-heewon)
+![My GitHub top language](https://github-readme-stats.heewon-dev.vercel.app/api/top-langs/?username=kang-heewon&exclude_repo=archive)
 
 ## techincal 🔩
 
